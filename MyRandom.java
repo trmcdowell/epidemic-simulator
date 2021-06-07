@@ -3,6 +3,7 @@ import java.util.Random;
 
 /**
  * Singleton wrapper for Java's Random class
+ * @author Tom McDowell
  * @author Douglas Jones
  * @version 11/2/2020
  * Status: Relatively stable code
