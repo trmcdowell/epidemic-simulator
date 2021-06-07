@@ -1,6 +1,5 @@
 # Makefile
 #     Make commands for Epidemic Simulator
-#     Status: MP11 Solution
 #     Author: Thomas McDowell
 
 # Example Uses
