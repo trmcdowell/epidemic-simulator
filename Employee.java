@@ -1,7 +1,7 @@
 /**
  * Employees are People who work
  * @author Douglas Jones
- * @author Tom McDowell
+ * @author Thomas McDowell
  * @version 11/2/2020
  * Status: broken off of MP8 solution; it works, but see BUG notices
  * @see Person
