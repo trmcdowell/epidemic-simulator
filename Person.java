@@ -4,8 +4,8 @@ import java.util.LinkedList;
 
 /**
  * People occupy places
- * @author Douglas Jones
  * @author Thomas McDowell
+ * @author Douglas Jones
  * @version 12/7/2020
  * Status: MP12 Solution
  * @see Place
