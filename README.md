@@ -7,14 +7,22 @@ Version: 11/11/2020 -- the 11/2/2020 version broken into multiple source files
 
 This distribution contains:
 
--- README -- this file
--- EpidemicSource -- the list of all Java source files included here
+-- README -- this file <br>
+-- EpidemicSource -- the list of all Java source files included here <br>
 -- testepi -- input to the simulator
 
-Shell command to build the simulator: javac @EpidemicSource
-Shell command to build Javadoc web site: javadoc @EpidemicSource
-
-Shell command to test the simulator: java Epidemic testepi
+Shell command to build the simulator:
+```
+$ javac @EpidemicSource
+```
+Shell command to build Javadoc web site:
+```
+$ javadoc @EpidemicSource
+```
+Shell command to test the simulator:
+```
+$ java Epidemic testepi
+```
 
 This test runs the simulator for one simulated month, using a community of
 1000 people, 10 of which are initially infected with a COVID-like disease.
