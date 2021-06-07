@@ -1,5 +1,6 @@
 /**
  * Error handling
+ * @author Tom McDowell
  * @author Douglas Jones
  * @version 11/2/2020
  * Status: Stable through many previous versions
