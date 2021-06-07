@@ -4,6 +4,7 @@ import java.util.LinkedList;
 
 /**
  * Places are occupied by people
+ * @author Thomas McDowell
  * @author Douglas Jones
  * @version 11/2/2020
  * Status: Broken off from MP8 solution; it works, but see BUG notices
