@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 
 /**
  * Wrapper or Adapter for Scanners that integrates error handling
+ * @author Tom McDowell
  * @author Douglas Jones
  * @version 11/2/2020
  * Status: Relatively stable code
