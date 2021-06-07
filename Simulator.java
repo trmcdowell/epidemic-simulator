@@ -2,6 +2,7 @@ import java.util.PriorityQueue;
 
 /**
  * Framework for discrete event simulation.
+ * @author Thomas McDowell
  * @author Douglas Jones
  * @version 11/13/2020 -- new simulation framework with time units
  * Status: New code!  Unstable?
