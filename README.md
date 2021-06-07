@@ -1,7 +1,8 @@
-Epidemic simulator
+## Epidemic Simulator
+## Authors
 
-Author: Tom McDowell <br>
-Author: Douglas Jones
+* **Thomas McDowell**
+* **Douglas Jones**
 
 Version: 11/11/2020 -- the 11/2/2020 version broken into multiple source files
 
