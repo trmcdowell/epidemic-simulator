@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 
 /**
  * Main class for the Epidemic simulator, builds model and simulates it
+ * @author Tom McDowell
  * @author Douglas Jones
  * @version 11/2/2020
  * Status: Broken off of MP8 solution; it works, but see BUG notices
