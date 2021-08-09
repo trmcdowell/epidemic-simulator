@@ -12,7 +12,7 @@ import java.util.LinkedList;
  * @see Employee
  */
 public class Person {
-    // private stuff needed for instances
+    // private members needed for instances
 
     protected enum States {
 	uninfected, latent, infectious, bedridden, recovered, dead
