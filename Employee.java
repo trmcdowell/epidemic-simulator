@@ -3,7 +3,6 @@
  * @author Thomas McDowell
  * @author Douglas Jones
  * @version 11/2/2020
- * Status: broken off of MP8 solution; it works, but see BUG notices
  * @see Person
  * @see WorkPlace
  */
