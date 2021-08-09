@@ -35,7 +35,7 @@ job relationships, with a 50% employment rate where both homes and workplaces
 have random variations in their transmissivity.  No two runs are likely to
 produce the same results.
 
-The community is describe in the file testepi, but currently, the disease
+The community is described in the file testepi, but currently, the disease
 characteristics are described by constants hard-coded into the simulator.
 There are bug notices in the code, in the form of comments with a // BUG
 header noting several places where it is clear that the code can be
