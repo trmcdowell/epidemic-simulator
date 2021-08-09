@@ -19,7 +19,7 @@ public class Person {
 	// the order of the above is significant: >= uninfected is infected
     }
 
-    // static attributes describing progression of infection
+    // attributes describing progression of infection
     // BUG --  These should come from model description file, not be hard coded
     double latentMedT = 2 * Simulator.day;
     double latentScatT = 1 * Simulator.day;
